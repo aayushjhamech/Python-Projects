@@ -1,0 +1,5 @@
+User would like to:
+
+1. Add new movies to collection to keep track of all movies.
+2. List all movies in my collection, to check which movies are there
+3. Find a movie by using title
